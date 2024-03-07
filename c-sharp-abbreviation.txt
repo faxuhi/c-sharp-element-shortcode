@@ -6,32 +6,32 @@ btn Button           chk CheckBox                ckl CheckedListBox
  rdo RadioButton      rtx RichTextBox             txt TextBox 
  tip ToolTip          tvw TreeView                wbs WebBrowser 
 
-容器
+Box-Panel
  flp FlowLayoutPanel    grp GroupBox               pnl Panel 
  spl SplitContainer     tab TabControl             tlp TableLayoutPanel 
 
-選單和工具列
+Menu-tool
  cms ContextMenuStrip 
  mns MenuStrip 
  ssr StatusStrip 
  tsr ToolStrip 
  tsc ToolStripContainer 
 
-資料類型
+Data
  dts DataSet 
  dgv DataGridView 
  bds BindingSource 
  bdn BindingNavigator 
  rpv ReportViewer 
 
-對話框
+Dialog
  cld ColorDialog 
  fbd FolderBrowserDialog 
  fnd FontDialog 
  ofd OpenFileDialog 
  sfd SaveFileDialog 
 
-组件
+Component
  bgw BackgroundWorker 
  dre DirectoryEntry 
  drs DirectorySearcher 
@@ -47,17 +47,17 @@ btn Button           chk CheckBox                ckl CheckedListBox
  scl ServiceController 
  tmr Timer 
 
-列印
+Print
  psd PageSetupDialog 
  prd PrintDialog 
  pdc PrintDocument 
  prv PrintPreviewControl 
  ppd PrintPreviewDialog 
 
-水晶報表
+Report
  crv CrystalReportViewer 
  rpd ReportDocument 
-其他
+Other
  dud DomainUpDown 
  hsc HScrollBar 
  prg PropertyGrid 
